@@ -19,7 +19,7 @@ Proyek ini membantu saya memahami integrasi **React.js frontend** dengan **backe
 ## 🧰 Teknologi yang Digunakan
 - **Frontend:** React.js, Fetch API  
 - **Backend:** Node.js (Express.js)  
-- **Database:** PostgreSQL (sesuai video tutorial)  
+- **Database:** MySQL 
 
 ---
 
